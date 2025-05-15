@@ -25,7 +25,7 @@ For the available versions please look at [Docker Hub][dockerhub] or
 ## Available environment variables
 
 ```console
-
+NEOFORGE_VERSION
 ```
 
 ## Inherited environment variables
