@@ -21,6 +21,7 @@ For the available versions please look at [Docker Hub][dockerhub] or
 *  25565
 *  25575
 *  8123
+*  24454
 
 ## Available environment variables
 
